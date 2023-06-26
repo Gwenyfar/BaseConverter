@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iruoma.onyia\\source\\repos\\Gwenyfar\\BaseConverter\\BaseConverter\\BaseConverter.csproj",
+      "projectUniqueName": "C:\\Users\\iruoma.onyia\\source\\repos\\BaseConverter\\BaseConverter\\BaseConverter.csproj",
       "projectName": "BaseConverter",
-      "projectPath": "C:\\Users\\iruoma.onyia\\source\\repos\\Gwenyfar\\BaseConverter\\BaseConverter\\BaseConverter.csproj",
+      "projectPath": "C:\\Users\\iruoma.onyia\\source\\repos\\BaseConverter\\BaseConverter\\BaseConverter.csproj",
       "packagesPath": "C:\\Users\\iruoma.onyia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iruoma.onyia\\source\\repos\\Gwenyfar\\BaseConverter\\BaseConverter\\obj\\",
+      "outputPath": "C:\\Users\\iruoma.onyia\\source\\repos\\BaseConverter\\BaseConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
