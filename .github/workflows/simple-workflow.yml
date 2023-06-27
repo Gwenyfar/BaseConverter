@@ -22,8 +22,8 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build project
-      run: dotnet build --no-restore
-    - name: Test
+      run: dotnet build --no-restore -c Release
+    - name: Run unit tests
       run: dotnet test --no-build --verbosity normal
     - name: Publish project
       run: dotnet publish -c Release --no-build
